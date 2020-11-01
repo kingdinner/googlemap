@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 10,
+    "areaname": "いわき市",
+    "businessname": "アクアマリンふくしま",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "多くの魚種が生息するハーバーフロントの水族館、三角トンネル、ギフトショップ、体験型のワークショップ。",
+    "image": 
+      [
+        "https://www.aquamarine.or.jp/wp-content/uploads/2018/02/pic-exhibitions08-main01.jpg",
+        "https://kankou-iwaki.or.jp/image/rendering/attraction_image/130/trim.800/3/2?v=7a37ee5d07c6befbb828cf0716eea027042eff79",
+        "https://cdn.4travel.jp/img/tcs/t/album/src/10/26/33/src_10263317.jpg?updated_at=1218956601" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

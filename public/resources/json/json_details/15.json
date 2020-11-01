@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 15,
+    "areaname": "長浜市",
+    "businessname": "餃子の王将 長浜店",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "日本一の餃子!!",
+    "image": 
+      [ 
+        "https://www.ohsho.co.jp/assets/img/1108_2.JPG",
+          "https://www.ohsho.co.jp/assets/img/1108_1.JPG",
+          "https://www.ohsho.co.jp/epark-takeout/img/ohshoLpFvObject_01.png" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 3,
+    "areaname": "室蘭市",
+    "businessname": "白鳥大橋パークゴルフ場",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "ゴルフは休息するのに最適な場所です",
+    "image": 
+      [ 
+        "https://rimage.gnst.jp/gurutabi.gnavi.co.jp/image/public/img/item/53/3d/11099/item_11099_1.jpg?1434951731",
+          "https://minpg.com/wp-content/uploads/2019/07/uploadimages_coursephoto3file_73f1060700a2387118aed77eb0d900e9-300x225.jpg",
+          "https://pbs.twimg.com/media/EYSRilFU4AAKxMY.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

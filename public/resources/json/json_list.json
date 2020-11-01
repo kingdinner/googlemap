@@ -1,0 +1,162 @@
+[
+    {
+      "idkey": 1,
+      "latitude": 18.596951,
+      "longitude": 120.823000,
+      "group": "groupA",
+      "areaname": "富良野市",
+      "title": "ID1 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 2,
+      "latitude": 43.038596,
+      "longitude": 141.371041,
+      "group": "groupA",
+      "areaname": "札幌市",
+      "title": "ID2 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 3,
+      "latitude": 42.315337,
+      "longitude": 140.982764,
+      "group": "groupA",
+      "areaname": "室蘭市",
+      "title": "ID3 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 4,
+      "latitude": 42.466016,
+      "longitude": 140.867608,
+      "group": "groupA",
+      "areaname": "伊達市",
+      "title": "ID4 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 5,
+      "latitude": 41.768789,
+      "longitude": 140.734518,
+      "group": "groupA",
+      "areaname": "函館市",
+      "title": "ID5 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 6,
+      "latitude": 40.270045,
+      "longitude": 140.583925,
+      "group": "groupB",
+      "areaname": "新潟",
+      "title": "ID1 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 7,
+      "latitude": 38.022232,
+      "longitude": 138.389779,
+      "group": "groupB",
+      "areaname": "佐渡市",
+      "title": "ID2 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 8,
+      "latitude": 38.2183,
+      "longitude": 139.484003,
+      "group": "groupB",
+      "areaname": "村上市",
+      "title": "ID3 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 9,
+      "latitude": 37.641692,
+      "longitude": 139.870972,
+      "group": "groupB",
+      "areaname": "喜多方市",
+      "title": "ID4 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 10,
+      "latitude": 37.026378,
+      "longitude": 140.884861,
+      "group": "groupB",
+      "areaname": "いわき市",
+      "title": "ID5 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 11,
+      "latitude": 35.133896,
+      "longitude": 136.922182,
+      "group": "groupC",
+      "areaname": "名古屋市",
+      "title": "ID1 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 12,
+      "latitude": 35.433731,
+      "longitude": 136.765954,
+      "group": "groupC",
+      "areaname": "岐阜市",
+      "title": "ID2 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 13,
+      "latitude": 34.827227,
+      "longitude": 137.365254,
+      "group": "groupC",
+      "areaname": "豊川市",
+      "title": "ID3 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 14,
+      "latitude": 35.887712,
+      "longitude": 136.167722,
+      "group": "groupC",
+      "areaname": "越前市",
+      "title": "ID4 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 15,
+      "latitude": 35.378779,
+      "longitude": 136.286655,
+      "group": "groupC",
+      "areaname": "長浜市",
+      "title": "ID5 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 16,
+      "latitude": 35.009388,
+      "longitude": 135.769088,
+      "group": "groupD",
+      "areaname": "京都市",
+      "title": "ID1 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 17,
+      "latitude": 34.657575,
+      "longitude": 135.501169,
+      "group": "groupD",
+      "areaname": "大阪市",
+      "title": "ID2 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 18,
+      "latitude": 34.685207,
+      "longitude": 135.815167,
+      "group": "groupD",
+      "areaname": "奈良市",
+      "title": "ID3 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 19,
+      "latitude": 34.766991,
+      "longitude": 136.137867,
+      "group": "groupD",
+      "areaname": "伊賀市",
+      "title": "ID4 - タイトルタイトルタイトルタイトルタイトル"
+    },
+    {
+      "idkey": 20,
+      "latitude": 34.679959,
+      "longitude": 134.941797,
+      "group": "groupD",
+      "areaname": "明石市",
+      "title": "ID5 - タイトルタイトルタイトルタイトルタイトル"
+    }
+  ]

@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 1,
+    "areaname": "富良野市",
+    "businessname": "ニングルテラス",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "伝統的な手工芸品を展示、販売している森の中の木材コテージとワークショップの写真。",
+    "image": 
+      [ 
+          "https://blogimg.goo.ne.jp/user_image/7c/b8/0d769f4333024017ff44f6871bd13607.jpg",
+          "https://www.princehotels.co.jp/image/2019_6_lv1_ningle_2.jpg",
+          "https://s3-ap-northeast-1.amazonaws.com/cdn.travel-star.jp/production/posts/eyecatches/000/001/115/eyecatch.jpg?1516608598" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

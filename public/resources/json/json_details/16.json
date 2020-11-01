@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 16,
+    "areaname": "京都市",
+    "businessname": "金閣寺",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "美しい庭園と反射する池に囲まれた、金箔のファサードがある歴史的で静かな寺院。",
+    "image": 
+      [ 
+        "https://www.shokoku-ji.jp/wp-content/themes/shokokuji/assets/img/kinkakuji/about/imgSlide01@2x.jpg",
+          "https://blogimg.goo.ne.jp/user_image/3c/34/ad3fe85acb93e04e5c7c87de504fd76a.jpg",
+          "https://blog-imgs-43.fc2.com/3/d/k/3dkyoto/20120228141130f1a.gif" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 18,
+    "areaname": "奈良市",
+    "businessname": "ディアーパーク ゴルフクラブ",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "奈良の最高のゴルフ場",
+    "image": 
+      [ 
+        "http://www.deerpark-gc.com/wp/wp-content/uploads/2017/02/image.jpg",
+        "http://www.deerpark-gc.com/wp/wp-content/uploads/2016/11/IMG_9258-640x427-3.jpg",
+        "http://www.deerpark-gc.com/wp/wp-content/uploads/2016/07/image-2.jpg"
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

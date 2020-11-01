@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 19,
+    "areaname": "伊賀市",
+    "businessname": "伊賀流忍者博物館",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "忍者の衣装や武器が展示されている家族向けのアトラクションで、戦闘のデモンストレーションもあります。",
+    "image": 
+      [ 
+        "https://farm2.staticflickr.com/1874/30616748088_238c3f9514_o.jpg",
+        "https://gogoshoryudo.com/.assets/thumbnail/025_03-i.jpg",
+        "https://www.kankomie.or.jp/lsc/upfile/TWReport/00/15/15_26_l.jpg"
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

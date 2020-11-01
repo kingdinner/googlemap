@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 13,
+    "areaname": "豊川市",
+    "businessname": "カフェ モエ",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "ボリュームがあるので美味しかったです！",
+    "image": 
+      [ 
+        "https://loco-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8Bj-a84RtI9jy8iPOVdSWQ_6eqRRGBAvP8V7kuN-d34wxj2NVJpQFewn0S5SVOTu_ZM_H9iMOdt7xiGS2NiyJczsGC3SalGnYo26Zj_190VsV84_sYVKhiv0Piol9spj5jdLJr4NW5UWngCbe_Uiu9k=",
+          "https://prtree.jp/sv_image/w1280h960/1h/y5/1hy5lXbjp7IiT9pG.jpg",
+          "https://ximg.retty.me/resize/s500x400/-/retty/img_repo/l/01/10912832.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

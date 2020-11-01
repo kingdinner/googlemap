@@ -1,0 +1,21 @@
+[
+  {
+    "idkey": 6,
+    "areaname": "新潟",
+    "businessname": "カーブドッチ ワイナリー",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "カフェに座って、眺めの良い静かな隠れ家を楽しめます。",
+    "image": 
+      [ 
+        "https://img-cdn.guide.travel.co.jp/article/683/34167/BAF43027594945BE8A6E0A11CB6C796D_LL.jpg",
+          "https://www.winery.or.jp/cms/wp-content/uploads/2016/03/docci_winery_01-333x250.jpg",
+          "https://icotto.k-img.com/system/press_images/000/443/320/6476e949551fc53e928c4538459db51188faba0a.jpeg?1524278229"
+    
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

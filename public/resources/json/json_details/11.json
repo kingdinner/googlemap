@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 11,
+    "areaname": "名古屋市",
+    "businessname": "レゴランド ジャパン",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "レゴランドは多種多様な施設を提供しています",
+    "image": 
+      [ 
+        "https://s3-ap-northeast-1.amazonaws.com/repos.kids.rurubu.jp/uploads/2019/01/002_01.jpg",
+          "https://www.jalan.net/news/img/2017/02/1703_tokai_0_016-480x320.jpg",
+          "https://tahtanfamily.com/wp-content/uploads/2019/04/B79B91A2-A028-4EE6-8468-6C246BA3A658-1024x767.jpeg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

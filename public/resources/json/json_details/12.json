@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 12,
+    "areaname": "岐阜市",
+    "businessname": "ダイワロイネットホテル岐阜",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "素晴らしいスープと麺。",
+    "image": 
+      [ 
+        "https://cdn.jalan.jp/jalan/images/pict2L/Y6/Y305036/Y305036580.jpg",
+          "https://trvimg.r10s.jp/share/HOTEL/52250/52250.jpg",
+          "https://www.daiwaroynet.jp/datas/cache/images/2020/05/08/1760x790_ea1e9d427fb5664c32c517a73e421e58_97883fbe43addf908340bca532e765452055d8c2.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

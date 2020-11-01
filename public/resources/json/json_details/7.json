@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 7,
+    "areaname": "佐渡市",
+    "businessname": "Ryokan浦島",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "観光に最適な場所", 
+    "image": 
+      [ 
+        "https://q-cf.bstatic.com/images/hotel/max1024x768/125/125163302.jpg",
+          "https://tabelog.com/restaurant/images/Rvw/63760/63760734.jpg",
+          "https://blogimg.goo.ne.jp/user_image/6a/a7/301ca9a7af95a7741d887060e16a517e.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

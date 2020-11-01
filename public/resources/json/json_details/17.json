@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 17,
+    "areaname": "大阪市",
+    "businessname": "ユニバーサル・スタジオ・ジャパン",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "人気のアメリカ映画に特化した広大なテーマパーク。乗り物やライブエンターテイメントを楽しめます。",
+    "image": 
+      [ 
+        "https://www.japan-guide.com/g18/4021_top.jpg",
+        "https://photos.smugmug.com/Osaka/Universal-Studios/i-k9LG97m/0/2b09f3e2/L/1%20Universal%20Studios%20Japan%20Globe-L.png",
+        "https://cdn.osaka-info.jp/page_translation/content/7e42ec6c-9480-11e8-9311-0af0cba29dd8.jpeg"
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

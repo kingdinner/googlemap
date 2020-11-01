@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 14,
+    "areaname": "越前市",
+    "businessname": "越前そばの里",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "本物の伝統的な日本のラーメン屋",
+    "image": 
+      [ 
+        "https://www.echizensoba.co.jp/wp/wp-content/themes/echizensoba/img/index/sp_main_img04-2.jpg",
+          "https://image.asoview-media.com/image/production/acp/3000003054/pln3000006875/513c607a-a239-47a0-a694-b3f55ede511d.jpg",
+          "https://dearfukui.jp/wp-content/uploads/2017/10/IMG_0165.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

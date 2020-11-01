@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 8,
+    "areaname": "村上市",
+    "businessname": "瀬波ビューホテル",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "観光に最適な場所",
+    "image": 
+      [ 
+        "https://cdn.jalan.jp/jalan/images/pict2L/Y8/Y362838/Y362838871.jpg",
+          "https://www.nta.co.jp/gallery/images/4401-106/0002215_m.jpg",
+          "https://dom.jtb.co.jp/yado/photo2/LL/3/3113008/31130081000312433.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

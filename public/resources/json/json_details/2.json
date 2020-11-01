@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 2,
+    "areaname": "札幌市",
+    "businessname": "サッポロビール博物館",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "かつての工場にあったこのビール博物館は、展示、ツアー、有料の試飲を無料で楽しめます。",
+    "image": 
+      [ 
+        "https://tabinaka.co.jp/magazine/wp-content/uploads/2019/08/shutterstock_1081712315.jpg",
+          "https://gotrip.jp/wp-content/uploads/2018/10/sapporobeer-museum_7125.jpg",
+          "https://www.sapporobeer.jp/brewery/s_museum/shisetsu/img/index_img_holl02.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

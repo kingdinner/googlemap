@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 9,
+    "areaname": "喜多方市",
+    "businessname": "坂内食堂 本店",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "素晴らしいスープと麺。",
+    "image": 
+      [ 
+        "https://1goten.jp/wp-content/uploads/imgs/8/7/87e0c366.jpg",
+          "https://tabi-eng.net/wp-content/uploads/2019/11/%E5%86%99%E7%9C%9F-2019-05-07-11-19-29-1024x768.jpg",
+          "https://tblg.k-img.com/restaurant/images/Rvw/83067/640x640_rect_83067239.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

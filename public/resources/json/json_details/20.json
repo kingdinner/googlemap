@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 20,
+    "areaname": "明石市",
+    "businessname": "明石市立天文科学館",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "プラネタリウムを見たい、時刻表を見なければならない。",
+    "image": 
+      [ 
+        "https://home.ikebukuro.kokosil.net/wp-content/uploads/2018/07/unnamed-71.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8osyIRKS9Hf6thPNpNj5W0XJOEwaBvnBrCw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfqPcvSg_ziSH0PmH252iOW7Ab3n57oDaqZA&usqp=CAU"
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]

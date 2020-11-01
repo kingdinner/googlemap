@@ -1,0 +1,20 @@
+[
+  {
+    "idkey": 4,
+    "areaname": "伊達市",
+    "businessname": "緑の風 リゾート きたゆざわ",
+    "titlename": "テキスト テキスト テキスト テキスト",
+    "decription": "ホテルで休むのに最適",
+    "image": 
+      [ 
+        "https://www.jumbotours.co.jp/hotel/hokkaido/images/2017-11-30.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kitayuzawa_spa_Meisuitei_roten.JPG",
+          "https://cdn.jalan.jp/jalan/images/pict2L/Y4/Y322984/Y322984299.jpg" 
+      ],
+    "link": [{
+      "text": "「アタリアタリアタリ」はコチラ",
+      "href": "https://hogehoge.com/",
+      "target": "_blank"
+    }]
+  }
+]
